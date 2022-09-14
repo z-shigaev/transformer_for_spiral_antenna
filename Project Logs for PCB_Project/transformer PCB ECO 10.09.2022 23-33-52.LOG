@@ -1,0 +1,5 @@
+Added Component: Designator=I1(Inductor)
+Added Pin To Net: NetName=NetI1_1 Pin=I1-1
+Added Pin To Net: NetName=NetC1_1 Pin=I1-2
+Added Member To Class: ClassName=transformer Member=Component I1 Inductor
+Added Room: Name=transformer
